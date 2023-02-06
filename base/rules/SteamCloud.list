@@ -1,0 +1,5 @@
+# 内容：SteamDownload
+DOMAIN-SUFFIX,steamcloud-sg.s3.dualstack.ap-southeast-1.amazonaws.com
+DOMAIN-SUFFIX,steamcloudhk2.blob.core.windows.net
+DOMAIN-SUFFIX,steamcloud-sgp.oss-accelerate.aliyuncs.com
+DOMAIN-SUFFIX,steamcloud-hkg.oss-accelerate.aliyuncs.com

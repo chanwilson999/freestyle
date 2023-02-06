@@ -1,0 +1,19 @@
+# 内容：SteamDownload
+DOMAIN-SUFFIX,st.dl.eccdnx.com
+DOMAIN-SUFFIX,dl.steam.clngaa.com
+DOMAIN-SUFFIX,xz.pphimalayanrt.com
+
+# hongkong cdn
+DOMAIN-SUFFIX,steamcontent.com
+#DOMAIN-SUFFIX,cache3-hkg1.steamcontent.com
+
+# beijing & tianjing cdn
+DOMAIN-SUFFIX,trts.baishancdnx.cn
+
+DOMAIN-SUFFIX,st.dl.bscstorage.net
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+DOMAIN-SUFFIX,dl.steam.ksyna.com
+
+DOMAIN-SUFFIX,blob.core.windows.net
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,oss-accelerate.aliyuncs
