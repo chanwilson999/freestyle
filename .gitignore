@@ -1,2 +1,5 @@
 subconverter.exe
 .vscode
+base/cache
+base/profiles
+base/pref.ini
